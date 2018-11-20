@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/phuslu/net/http2"
+	"github.com/ocdman/net/http2"
 )
 
 type TLSDialer interface {

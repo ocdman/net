@@ -27,9 +27,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phuslu/net/http2/hpack"
-	"github.com/phuslu/net/idna"
-	"github.com/phuslu/net/lex/httplex"
+	"github.com/ocdman/net/http2/hpack"
+	"github.com/ocdman/net/idna"
+	"github.com/ocdman/net/lex/httplex"
 )
 
 const (

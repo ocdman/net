@@ -30,7 +30,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phuslu/net/http2/hpack"
+	"github.com/ocdman/net/http2/hpack"
 )
 
 var (

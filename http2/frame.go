@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phuslu/net/http2/hpack"
-	"github.com/phuslu/net/lex/httplex"
+	"github.com/ocdman/net/http2/hpack"
+	"github.com/ocdman/net/lex/httplex"
 )
 
 const frameHeaderLen = 9

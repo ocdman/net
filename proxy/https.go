@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/cloudflare/golibs/lrucache"
-	"github.com/phuslu/bogo"
+	"github.com/ocdman/bogo"
 )
 
 func HTTPS(network, addr string, auth *Auth, forward Dialer, resolver Resolver) (Dialer, error) {

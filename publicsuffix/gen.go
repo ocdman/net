@@ -32,7 +32,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/phuslu/net/idna"
+	"github.com/ocdman/net/idna"
 )
 
 const (

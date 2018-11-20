@@ -14,7 +14,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/phuslu/net/idna"
+	"github.com/ocdman/net/idna"
 )
 
 var isTokenTable = [127]bool{

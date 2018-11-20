@@ -29,7 +29,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/phuslu/net/lex/httplex"
+	"github.com/ocdman/net/lex/httplex"
 )
 
 var (

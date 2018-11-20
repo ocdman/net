@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/phuslu/net/http2/hpack"
-	"github.com/phuslu/net/lex/httplex"
+	"github.com/ocdman/net/http2/hpack"
+	"github.com/ocdman/net/lex/httplex"
 )
 
 // writeFramer is implemented by any type that is used to write frames.
